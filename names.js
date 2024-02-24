@@ -1,4 +1,4 @@
-const babyNames = [
+export const babyNames = [
     {
         name: 'Melissa', 
         gender: 'girl',

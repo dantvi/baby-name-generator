@@ -1,3 +1,4 @@
+import { babyNames } from './names.js';
 
 // Show new name
 function newName() {
